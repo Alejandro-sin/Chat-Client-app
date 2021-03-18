@@ -1,0 +1,25 @@
+{
+  "name": "chat-client-app",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r   <img src=\"images/logo.png\">\r   <br/>\r   Project: \r   <br>\r </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro-sin/Chat-Client-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandro-sin/Chat-Client-app/issues"
+  },
+  "homepage": "https://github.com/Alejandro-sin/Chat-Client-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  }
+}
